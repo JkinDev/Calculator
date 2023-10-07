@@ -2,7 +2,6 @@
 Proyecto realizado para la asignatura de Programación Web en entorno cliente del CDP Desarrollo Web IES Campanillas
 
 El proyecto consiste en realizar dos proyectos, una calculadora básica y otra de cambios de base, ambos relacionados en una página principal.
-&nbsp;
 <br><br>
 - Menú principal
 <br><br>
