@@ -3,9 +3,9 @@ Proyecto realizado para la asignatura de Programación Web en entorno cliente de
 
 El proyecto consiste en realizar dos proyectos, una calculadora básica y otra de cambios de base, ambos relacionados en una página principal.
 &nbsp;
-<br>
+<br><br>
 - Menú principal
-&nbsp;
+<br><br>
 <img width="1339" alt="MainMenu" src="https://github.com/JkinDev/Calculator/assets/131248139/d41e71cc-3ac5-4fb5-be46-0961c1489ea0">
 
 - Mini Calculadora
