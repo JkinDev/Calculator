@@ -15,4 +15,3 @@ El proyecto consiste en realizar dos proyectos, una calculadora básica y otra d
 ## Calculadora Base
 
 ![Calculadora Base](https://github.com/JkinDev/Calculator/assets/131248139/c15fb11f-0446-4311-a4b8-67a6b1c4786b)
-
