@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Base Converter</title>
+  <link rel="shortcut icon" href="../ejem01/img/favicon.png" type="image/ico" />
+  <link href="./css/styles.css" rel="stylesheet" type="text/css" />
+  <script defer type="text/javascript" src="./js/script.js"></script>
+  <script defer type="text/javascript" src="./js/operaciones.js"></script>
+  <script defer type="text/javascript" src="./js/funciones.js"></script>
+</head>
+
+<body>
+  <div id="container">
+    <div id="header">
+      <h1>
+        &#128421; Examples - JS FUNDAMENTALS (ES6)  &#128421;
+      </h1>
+      <h2>WEB development in client environment</h2>
+    </div>
+    <div id="content">
+
+      <h2>Base Converter&nbsp;&#128223;</h2>
+      <form action="">
+        <fieldset>
+          <legend>Convert a Number to Any Base:</legend>
+          <label for="num1">Number 1:</label>
+          <input id="num1" type="text" name="num1" placeholder="Enter a number..." />&nbsp;&nbsp;
+
+          <input class="botonesbase" id="toBinario" type="button" value="/2">&nbsp;&nbsp;
+          <input class="botonesbase" id="toOctal" type="button" value="/8">&nbsp;&nbsp;
+          <input class="botonesbase" id="toHexa" type="button" value="/16">
+        </fieldset>
+      </form>
+      <p id="bases"></p>
+
+      </br>
+      <input id="copiar" type="button" value="Copiar">
+      <br></br><br>
+
+      <form action="">
+        <fieldset>
+          <legend>Convert From Base to Decimal:</legend>
+          <label for="num2">Number 2:</label>
+          <input id="num2" type="text" name="num2" placeholder="Add 0b_, 0o_ ó 0x_..." />&nbsp;&nbsp;
+
+          <input class="botonesdecimal" id="fromBinario" type="button" value="/2">&nbsp;&nbsp;
+          <input class="botonesdecimal" id="fromOctal" type="button" value="/8">&nbsp;&nbsp;
+          <input class="botonesdecimal" id="fromHexa" type="button" value="/16">
+        </fieldset>
+      </form>
+      <p id="decimal"></p>
+
+      </br></br>
+      <a href="../../index.html">	&nbsp;&#127968;&nbsp;&nbsp;Home Page</a>
+    </div>
+    <div id="footer">
+      🧑🏻‍💻 Joaquín Rus Gárate - CPIFP Nuevo (IES Campanillas) &#127970;
+    </div>
+  </div>
+</body>
+
+</html>
